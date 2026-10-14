@@ -1,9 +1,9 @@
 # ¡COME! · كُلْ
-### Cerámica andalusí del siglo XI, epigrafía cúfica y propuesta gastronómica para Restaurante Noor (Córdoba)
+### Cerámica andalusí del siglo XI, epigrafía cúfica y propuesta gastronómica · Restaurante Noor (Córdoba)
 
 [![Live Demo](https://img.shields.io/badge/Demo_Interactivo-GitHub_Pages-2c6e4f?style=for-the-badge&logo=github)](https://leogallardo97-bit.github.io/zafas-kul-noor/)
 [![Investigación](https://img.shields.io/badge/Estudio_Histórico-Pau_Armengol_&_Carmen_Barceló-a8741f?style=for-the-badge)](./Informe_Epigrafia_Ceramica_Alimentacion_alAndalus.md)
-[![Destinatario](https://img.shields.io/badge/Propuesta-Restaurante_Noor_Córdoba-2a1d22?style=for-the-badge)](./02_Propuesta_Noor_Zafas_Kul/Dossier_Propuesta_Gerencia_Noor.md)
+[![Autoría](https://img.shields.io/badge/Autoría-Noor_·_Paco_Morales_&_Paola_Gualandi-2a1d22?style=for-the-badge)](./02_Propuesta_Noor_Zafas_Kul/Dossier_Propuesta_Gerencia_Noor.md)
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 📜 Resumen del Proyecto
 
-Este proyecto formula una propuesta conceptual, gastronómica y de servicio de sala para la gerencia de **Restaurante Noor** (3 estrellas Michelin, Córdoba, liderado por el chef Paco Morales).
+Este proyecto formula una propuesta conceptual, gastronómica y de servicio de sala desarrollada por **Restaurante Noor** (3 estrellas Michelin, Córdoba), bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi**.
 
 El fundamento nace de una serie de **40 zafas cerámicas del siglo XI** (época de las Taifas) estudiadas por Pau Armengol y Carmen Barceló (*Boletín de Arqueología Medieval*, 2024). A diferencia de la vajilla califal cordobesa previa —que portaba fórmulas propiciatorias abstractas (*al-mulk*, *baraka*, *yumn*)—, estas zafas llevaban pintada en el fondo interior una **orden directa y funcional**: el imperativo árabe **كُلْ (*kul*, «¡come!»)** acompañado del nombre del guiso servido.
 
@@ -47,7 +47,7 @@ Los cuatro pases toman como raíz los cuatro guisos atestiguados en las zafas or
 
 * [**`index.html`**](./index.html): **Maquetación interactiva autónoma** lista para navegador, pantalla táctil o impresión a PDF en formato lámina/diapositiva.
 * [**`02_Propuesta_Noor_Zafas_Kul/`**](./02_Propuesta_Noor_Zafas_Kul/):
-  * `Dossier_Propuesta_Gerencia_Noor.md`: Dossier ejecutivo formal para la dirección de Noor (justificación arqueológica, especificaciones de alfarería sin plomo, diseño de pases, guion de sala de 30 segundos y plan de trabajo).
+  * `Dossier_Propuesta_Gerencia_Noor.md`: Dossier técnico y de desarrollo de Noor (justificación arqueológica, especificaciones de alfarería sin plomo, diseño de pases, guion de sala de 30 segundos y plan de trabajo).
   * `index.html`: Copia de respaldo de la presentación.
 * [**`Informe_Epigrafia_Ceramica_Alimentacion_alAndalus.md`**](./Informe_Epigrafia_Ceramica_Alimentacion_alAndalus.md): Informe científico de base sobre epigrafía andalusí, análisis tipológico y bibliometría en OpenAlex.
 * [**`01_Articulos_PDF/`**](./01_Articulos_PDF/): Corpus de artículos científicos descargados y ordenados por carpetas temáticas con índices en CSV y Excel.
@@ -64,4 +64,4 @@ Los cuatro pases toman como raíz los cuatro guisos atestiguados en las zafas or
 * **Técnica pictórica:** Verde de cobre y manganeso sobre blanco. Caligrafía cúfica trazada artesanalmente por maestro calígrafo.
 
 ---
-*Propuesta desarrollada por **Leonardo Gallardo Apolo** · Octubre de 2026.*
+*Trabajo realizado por **Noor**, bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi** · Octubre de 2026.*

@@ -1,14 +1,14 @@
 # ¡COME! · كُلْ
 ## Representación del Arte Epigráfico de las Zafas del Siglo XI en la Mesa de Noor
-**Dossier Didáctico y Propuesta Gastronómica para la Gerencia de Restaurante Noor (Córdoba)**  
-*Autor: Leonardo Gallardo Apolo* · *Octubre de 2026*  
+**Dossier de Investigación y Propuesta Gastronómica · Restaurante Noor (Córdoba)**  
+*Trabajo realizado por Noor, bajo la dirección y supervisión de Paco Morales y Paola Gualandi* · *Octubre de 2026*  
 *Documento de Trabajo e Investigación Aplicada*
 
 ---
 
 ## 1. Resumen Ejecutivo
 
-Este proyecto traslada a la mesa de **Noor** uno de los hallazgos epigráficos y cerámicos más singulares de la arqueología andalusí: la serie **«¡Come!» (*Kul*)** del siglo XI, documentada y sistematizada en el estudio de Pau Armengol y Carmen Barceló (*Boletín de Arqueología Medieval*, 2024).
+Este trabajo de investigación, conceptualización gastronómica y diseño de vajilla desarrollado por **Noor**, bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi**, traslada a la mesa de Noor uno de los hallazgos epigráficos y cerámicos más singulares de la arqueología andalusí: la serie **«¡Come!» (*Kul*)** del siglo XI, documentada y sistematizada en el estudio de Pau Armengol y Carmen Barceló (*Boletín de Arqueología Medieval*, 2024).
 
 Frente a la cerámica califal cordobesa habitual —que portaba fórmulas propiciatorias abstractas de poder y dicha (*al-mulk*, *baraka*, *yumn*)—, las zafas de esta serie presentan una orden directa, funcional y gastronómica escrita en el fondo del recipiente: el imperativo árabe **كُلْ (*kul*, «¡come!»)** acompañado del nombre del guiso servido (*baqliyya*, *qarʿiyya*, *ŷulaydiyya*, *gassāniyya*).
 
@@ -185,8 +185,8 @@ gantt
 ## 8. Materiales Entregados en esta Carpeta
 
 * `index.html`: **Maquetación interactiva completa**, visualizable en navegador o pantalla táctil, con simulación de raspado del guiso en zafas dinámicas, despiece arqueológico SVG, selector de despensa interactivo y estilos optimizados para impresión en PDF/folio.
-* `Dossier_Propuesta_Gerencia_Noor.md`: Este informe ejecutivo para archivo y lectura técnica.
+* `Dossier_Propuesta_Gerencia_Noor.md`: Este dossier técnico y gastronómico para archivo y lectura de sala y cocina.
 * Artículos y bibliografía de soporte: Ubicados en la carpeta contigua `../01_Articulos_PDF/`.
 
 ---
-*Córdoba / València, Octubre de 2026.*
+*Restaurante Noor (Córdoba) · Dirección y supervisión: Paco Morales y Paola Gualandi · Octubre de 2026.*
