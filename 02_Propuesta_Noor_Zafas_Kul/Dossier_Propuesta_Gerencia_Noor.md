@@ -1,14 +1,14 @@
 # ¡COME! · كُلْ
 ## Representación del Arte Epigráfico de las Zafas del Siglo XI en la Mesa de Noor
-**Dossier de Investigación y Propuesta Gastronómica · Restaurante Noor (Córdoba)**  
-*Trabajo realizado por Noor, bajo la dirección y supervisión de Paco Morales y Paola Gualandi* · *Octubre de 2026*  
+**Dossier Didáctico y Propuesta Gastronómica para Restaurante Noor (Córdoba)**  
+*Propuesta para Noor · Dirección y supervisión: Paco Morales y Paola Gualandi* · *Octubre de 2026*  
 *Documento de Trabajo e Investigación Aplicada*
 
 ---
 
 ## 1. Resumen Ejecutivo
 
-Este trabajo de investigación, conceptualización gastronómica y diseño de vajilla desarrollado por **Noor**, bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi**, traslada a la mesa de Noor uno de los hallazgos epigráficos y cerámicos más singulares de la arqueología andalusí: la serie **«¡Come!» (*Kul*)** del siglo XI, documentada y sistematizada en el estudio de Pau Armengol y Carmen Barceló (*Boletín de Arqueología Medieval*, 2024).
+Este proyecto formula una propuesta conceptual, gastronómica y de vajilla para la mesa de **Noor**, bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi**, trasladando a la experiencia gastronómica uno de los hallazgos epigráficos y cerámicos más singulares de la arqueología andalusí: la serie **«¡Come!» (*Kul*)** del siglo XI, documentada y sistematizada en el estudio de Pau Armengol y Carmen Barceló (*Boletín de Arqueología Medieval*, 2024).
 
 Frente a la cerámica califal cordobesa habitual —que portaba fórmulas propiciatorias abstractas de poder y dicha (*al-mulk*, *baraka*, *yumn*)—, las zafas de esta serie presentan una orden directa, funcional y gastronómica escrita en el fondo del recipiente: el imperativo árabe **كُلْ (*kul*, «¡come!»)** acompañado del nombre del guiso servido (*baqliyya*, *qarʿiyya*, *ŷulaydiyya*, *gassāniyya*).
 
@@ -189,4 +189,4 @@ gantt
 * Artículos y bibliografía de soporte: Ubicados en la carpeta contigua `../01_Articulos_PDF/`.
 
 ---
-*Restaurante Noor (Córdoba) · Dirección y supervisión: Paco Morales y Paola Gualandi · Octubre de 2026.*
+*Propuesta para Noor (Córdoba) · Dirección y supervisión: Paco Morales y Paola Gualandi · Octubre de 2026.*
