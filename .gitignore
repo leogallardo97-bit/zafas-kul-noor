@@ -12,3 +12,4 @@ $RECYCLE.BIN/
 *~
 .vscode/
 .idea/
+.playwright-mcp/

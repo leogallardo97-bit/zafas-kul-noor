@@ -64,4 +64,4 @@ Los cuatro pases toman como raíz los cuatro guisos atestiguados en las zafas or
 * **Técnica pictórica:** Verde de cobre y manganeso sobre blanco. Caligrafía cúfica trazada artesanalmente por maestro calígrafo.
 
 ---
-*Propuesta para **Noor**, bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi** · Octubre de 2026.*
+*Autoría y concepto: **Restaurante Noor**, bajo la dirección y supervisión de **Paco Morales** y **Paola Gualandi** · Octubre de 2026.*

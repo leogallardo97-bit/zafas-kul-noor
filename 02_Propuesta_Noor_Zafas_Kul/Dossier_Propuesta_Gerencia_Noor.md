@@ -1,7 +1,7 @@
 # ¡COME! · كُلْ
 ## Representación del Arte Epigráfico de las Zafas del Siglo XI en la Mesa de Noor
 **Dossier Didáctico y Propuesta Gastronómica para Restaurante Noor (Córdoba)**  
-*Propuesta para Noor · Dirección y supervisión: Paco Morales y Paola Gualandi* · *Octubre de 2026*  
+*Autoría y concepto: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi* · *Octubre de 2026*  
 *Documento de Trabajo e Investigación Aplicada*
 
 ---
