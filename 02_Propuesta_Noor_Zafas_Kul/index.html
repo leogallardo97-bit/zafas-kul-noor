@@ -10,11 +10,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="author" content="Restaurante Noor (Paco Morales & Paola Gualandi)">
+  <meta name="author" content="Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi">
   <meta name="copyright" content="Restaurante Noor">
   <meta name="description" content="Propuesta gastronómica y de vajilla inspirada en la epigrafía cúfica de zafas andalusíes del siglo XI para Restaurante Noor. Autoría: Restaurante Noor.">
   <title>¡Come! (Kul) · Noor (Paco Morales & Paola Gualandi)</title>
-<meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&family=Reem+Kufi:wght@400;500;600;700&family=Amiri&display=swap">
@@ -264,7 +263,17 @@ button { font: inherit; color: inherit; }
   .slide { min-height: 167mm; height: 167mm; overflow: hidden; break-after: page; page-break-after: always; border: 0; padding-block: 10mm; padding-inline: 14mm; }
   .dock, .zafa-controls, .zafa-stage canvas, .zafa-cap .hint, .pantry-bar .btn { display: none !important; }
   .zafa-cap .reading { display: grid !important; }
-  .zafa-stage { width: 70mm; }
+  .zafa-stage { width: 62mm; }
+  .two { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important; gap: 10mm; }
+  .dishes { grid-template-columns: repeat(4, minmax(0, 1fr)) !important; }
+  .trio { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; }
+  .trio > div + div { border-top: 0 !important; border-left: 1px solid var(--line) !important; padding-left: 16px !important; }
+  .traps, .script, .ledger { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+  .traps { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; }
+  .road { grid-template-columns: repeat(5, minmax(0, 1fr)) !important; }
+  .drawing { max-height: 78mm; }
+  .blocks { gap: 8px; }
+  .pase .blocks p, .specs p { font-size: .95rem; }
   .item .verdict, .item .why { display: block; }
   .item.no .name { text-decoration: line-through; }
   .pantry { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 5px; }
@@ -632,7 +641,7 @@ button { font: inherit; color: inherit; }
     </div>
     <div style="display:grid; gap:12px; justify-items:start">
       <p class="closing" lang="ar" dir="rtl">كُلْ</p>
-      <p class="lead">Autoría y desarrollo: Restaurante Noor, bajo la dirección y supervisión de Paco Morales y Paola Gualandi. Octubre de 2026.</p>
+      <p class="lead">Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi. Octubre de 2026.</p>
     </div>
   </div>
 </section>

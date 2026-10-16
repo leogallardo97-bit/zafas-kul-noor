@@ -9,7 +9,7 @@
 
 ## 🌟 [Ver la Maquetación Interactiva en Vivo](https://leogallardo97-bit.github.io/zafas-kul-noor/)
 
-> Puedes interactuar directamente con la pieza: arrastra sobre el guiso para comerlo con el ratón o el dedo (en móvil/tablet), o pulsa *«Comer de un bocado»*. Al terminarse el plato, el fondo desvela la caligrafía cúfica foliada en verde de cobre y marrón manganeso.
+> Puedes interactuar directamente con la pieza: arrastra sobre el guiso para comerlo con el ratón o el dedo (en móvil/tablet), o pulsa *«Comer de un bocado»*. Al terminarse el plato, el fondo desvela la inscripción árabe en verde de cobre con contorno de manganeso.
 
 ---
 
@@ -32,7 +32,7 @@ Epígrafe: kul + nombre del manjar    ──>  Se desvela el mandato caligráfic
 
 Los cuatro pases toman como raíz los cuatro guisos atestiguados en las zafas originales, cruzados con los grandes recetarios andalusíes (*Ibn Razīn al-Tuŷībī* y el *Anónimo Almohade* del siglo XIII):
 
-1. **Pase I · ¡Come la berenjena! (*Kul al-bāḏinŷān* · كل الباذنجan)**  
+1. **Pase I · ¡Come la berenjena! (*Kul al-bāḏinŷān* · كل الباذنجان)**  
    *Inspirado en la baqliyya (guiso de verduras).* Berenjena asada a la brasa, jugo concentrado de cordero, cilantro y alcaravea, bajo costra crujiente de pan y almendra.
 2. **Pase II · ¡Come la calabaza! (*Kul al-qarʿ* · كل القرع)**  
    *Inspirado en la qarʿiyya (guiso de calabaza vinatera Lagenaria siceraria).* Calabaza confitada en grasa de cordero lechal, caldo reducido con orégano silvestre y tomillo.
