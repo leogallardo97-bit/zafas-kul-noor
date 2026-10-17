@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Lámina botánica de la semilla verde de cilantro (Coriandrum sativum): umbela compuesta con frutos esféricos verdes acostillados, hojas superiores pinnatisectas e inferiores lobuladas">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Semilla verde de cilantro (Coriandrum sativum) · Lámina botánica</dc:title>
+        <dc:creator><rdf:Seq><rdf:li>Restaurante Noor</rdf:li></rdf:Seq></dc:creator>
+        <dc:rights>Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi</dc:rights>
+        <dc:description>Semilla verde de cilantro (Coriandrum sativum, al-kuzbara). Lámina botánica · Recreación visual de la propuesta (imagen de síntesis)</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#f8f8f2"/>
+      <stop offset="100%" stop-color="#e5eadf"/>
+    </radialGradient>
+    <radialGradient id="seed" cx="35%" cy="32%" r="65%">
+      <stop offset="0%" stop-color="#9fd19e"/>
+      <stop offset="55%" stop-color="#4b8e60"/>
+      <stop offset="100%" stop-color="#25593c"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="240" height="240" fill="url(#bg)"/>
+  <rect x="10" y="10" width="220" height="220" rx="6" fill="none" stroke="#2a1d22" stroke-opacity=".22" stroke-width="1"/>
+  <rect x="14" y="14" width="212" height="212" rx="4" fill="none" stroke="#2c6e4f" stroke-opacity=".18" stroke-width=".7"/>
+  <g fill="#2c6e4f" fill-opacity=".45">
+    <circle cx="18" cy="18" r="1.6"/><circle cx="222" cy="18" r="1.6"/>
+    <circle cx="18" cy="222" r="1.6"/><circle cx="222" cy="222" r="1.6"/>
+  </g>
+
+  <!-- Tallo estriado principal y radios de la umbela compuesta -->
+  <g fill="none" stroke="#2c6e4f" stroke-linecap="round">
+    <path d="M98,216 C100,178 106,144 116,108" stroke-width="3.2"/>
+    <!-- Radios primarios de la umbela -->
+    <path d="M116,108 L68,72" stroke-width="1.6"/>
+    <path d="M116,108 L94,58" stroke-width="1.6"/>
+    <path d="M116,108 L124,52" stroke-width="1.7"/>
+    <path d="M116,108 L152,60" stroke-width="1.6"/>
+    <path d="M116,108 L172,78" stroke-width="1.5"/>
+    <!-- Radios secundarios (umbélulas) -->
+    <path d="M68,72 L50,56 M68,72 L62,48 M68,72 L76,52" stroke-width="1.1"/>
+    <path d="M94,58 L84,38 M94,58 L96,34 M94,58 L106,40" stroke-width="1.1"/>
+    <path d="M124,52 L116,32 M124,52 L128,28 M124,52 L138,34" stroke-width="1.1"/>
+    <path d="M152,60 L146,40 M152,60 L160,36 M152,60 L170,46" stroke-width="1.1"/>
+    <path d="M172,78 L176,58 M172,78 L188,62 M172,78 L194,74" stroke-width="1.1"/>
+  </g>
+  <!-- Brácteas finas del involucro -->
+  <path d="M116,108 C104,112 96,118 90,124 M116,108 C128,112 136,118 140,124" fill="none" stroke="#2a1d22" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Hoja caulinar superior finamente pinnatisecta (segmentos lineares) -->
+  <g transform="translate(103,144) rotate(-32)" fill="none" stroke="#2c6e4f" stroke-width="1.8" stroke-linecap="round">
+    <path d="M0,0 L-48,-12"/>
+    <path d="M-12,-3 L-18,-18 M-12,-3 L-22,10"/>
+    <path d="M-24,-6 L-32,-22 M-24,-6 L-34,8 M-16,-14 L-10,-22"/>
+    <path d="M-36,-9 L-44,-22 M-36,-9 L-45,4"/>
+    <path d="M-48,-12 L-58,-18 M-48,-12 L-56,-4"/>
+  </g>
+
+  <!-- Hoja basal trilobulada dentada típica del cilantro fresco -->
+  <g transform="translate(102,174) rotate(24)" stroke="#2a1d22" stroke-width="1.15" stroke-linejoin="round">
+    <path d="M0,0 L24,-10" fill="none" stroke="#2c6e4f" stroke-width="1.8"/>
+    <path d="M22,-10 C22,-22 32,-30 42,-26 C46,-32 54,-30 56,-22 C64,-20 64,-8 56,-4 C54,4 44,6 38,0 C30,4 22,-2 22,-10 Z" fill="#3f7d4f"/>
+    <path d="M24,-10 L52,-15 M34,-12 L38,-22 M36,-12 L42,-4" fill="none" stroke="#b9d8c2" stroke-width=".9" stroke-linecap="round"/>
+  </g>
+
+  <!-- Frutos verdes inmaduros (diaquenios globosos) en las umbélulas -->
+  <g stroke="#2a1d22" stroke-width="1.05" fill="url(#seed)">
+    <circle cx="50" cy="54" r="6.2"/>
+    <circle cx="62" cy="46" r="6.8"/>
+    <circle cx="76" cy="50" r="6"/>
+    <circle cx="84" cy="36" r="6.5"/>
+    <circle cx="96" cy="32" r="7.2"/>
+    <circle cx="106" cy="38" r="6.2"/>
+    <circle cx="116" cy="30" r="6.8"/>
+    <circle cx="128" cy="26" r="7.4"/>
+    <circle cx="138" cy="32" r="6.4"/>
+    <circle cx="146" cy="38" r="6.2"/>
+    <circle cx="160" cy="34" r="7"/>
+    <circle cx="170" cy="44" r="6.3"/>
+    <circle cx="176" cy="56" r="6"/>
+    <circle cx="188" cy="60" r="6.6"/>
+    <circle cx="194" cy="72" r="5.8"/>
+  </g>
+  <!-- Costillas meridianas y estilopodio en las semillas principales -->
+  <g fill="none" stroke="#2a1d22" stroke-width=".65" opacity=".75">
+    <path d="M96,25 C93,29 93,35 96,39 M96,25 C99,29 99,35 96,39"/>
+    <path d="M128,19 C125,23 125,29 128,33 M128,19 C131,23 131,29 128,33"/>
+    <path d="M160,27 C157,31 157,37 160,41 M160,27 C163,31 163,37 160,41"/>
+    <path d="M62,39 C59,43 59,49 62,53 M62,39 C65,43 65,49 62,53"/>
+    <path d="M188,53 C185,57 185,63 188,67 M188,53 C191,57 191,63 188,67"/>
+  </g>
+
+  <!-- Detalle botánico ampliado (abajo a la derecha): fruto verde globoso con costillas primarias onduladas y secundarias rectas -->
+  <g transform="translate(178,176)">
+    <circle cx="0" cy="0" r="32" fill="#f1f4ee" fill-opacity=".88" stroke="#2a1d22" stroke-opacity=".3" stroke-width=".9" stroke-dasharray="3 2"/>
+    <path d="M0,18 L0,27" stroke="#2c6e4f" stroke-width="2" stroke-linecap="round"/>
+    <!-- Cáliz persistente y estilopodio cónico en el ápice -->
+    <path d="M-4,-17 L0,-23 L4,-17 M-6,-15 L-8,-19 M6,-15 L8,-19" fill="none" stroke="#2a1d22" stroke-width="1.1" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="17" fill="url(#seed)" stroke="#2a1d22" stroke-width="1.3"/>
+    <!-- Costillas del diaquenio -->
+    <path d="M0,-17 L0,17 M-8,-15 C-12,-5 -12,5 -8,15 M8,-15 C12,-5 12,5 8,15 M-4,-16 C-6,-6 -4,6 -4,16 M4,-16 C6,-6 4,6 4,16" fill="none" stroke="#1e442e" stroke-width=".9"/>
+  </g>
+</svg>

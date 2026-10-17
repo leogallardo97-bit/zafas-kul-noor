@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Lámina botánica de la alcaparra (Capparis spinosa): tallo arqueado con hojas redondeadas, botón floral (alcaparra), flor abierta con largos estambres purpúreos y fruto (alcaparrón) en sección">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Alcaparra (Capparis spinosa) · Lámina botánica</dc:title>
+        <dc:creator><rdf:Seq><rdf:li>Restaurante Noor</rdf:li></rdf:Seq></dc:creator>
+        <dc:rights>Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi</dc:rights>
+        <dc:description>Alcaparra (Capparis spinosa, al-kabar): hoja, botón floral y alcaparrón. Lámina botánica · Recreación visual de la propuesta (imagen de síntesis)</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#f8f8f2"/>
+      <stop offset="100%" stop-color="#e5eadf"/>
+    </radialGradient>
+    <linearGradient id="caperLeaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5d9970"/>
+      <stop offset="60%" stop-color="#2c6e4f"/>
+      <stop offset="100%" stop-color="#1f4e37"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="75%" stop-color="#f3ece6"/>
+      <stop offset="100%" stop-color="#dfc8d2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="240" height="240" fill="url(#bg)"/>
+  <rect x="10" y="10" width="220" height="220" rx="6" fill="none" stroke="#2a1d22" stroke-opacity=".22" stroke-width="1"/>
+  <rect x="14" y="14" width="212" height="212" rx="4" fill="none" stroke="#2c6e4f" stroke-opacity=".18" stroke-width=".7"/>
+  <g fill="#2c6e4f" fill-opacity=".45">
+    <circle cx="18" cy="18" r="1.6"/><circle cx="222" cy="18" r="1.6"/>
+    <circle cx="18" cy="222" r="1.6"/><circle cx="222" cy="222" r="1.6"/>
+  </g>
+
+  <!-- Tallo arqueado leñoso-herbáceo con estípulas espinosas -->
+  <path d="M36,204 C56,162 82,126 120,96 C148,74 176,62 204,56" fill="none" stroke="#5b6d49" stroke-width="4" stroke-linecap="round"/>
+  <path d="M36,204 C56,162 82,126 120,96 C148,74 176,62 204,56" fill="none" stroke="#2a1d22" stroke-width="1.1" stroke-linecap="round"/>
+  <!-- Pedúnculos florales y del fruto -->
+  <path d="M122,95 C114,72 104,56 92,46" fill="none" stroke="#4d6b45" stroke-width="2" stroke-linecap="round"/>
+  <path d="M158,73 C164,54 172,42 182,36" fill="none" stroke="#4d6b45" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M84,132 C104,142 122,158 132,178" fill="none" stroke="#4d6b45" stroke-width="2.2" stroke-linecap="round"/>
+
+  <!-- Hojas alternas redondeadas-ovadas, coriáceas -->
+  <g stroke="#2a1d22" stroke-width="1.2">
+    <g transform="translate(56,168) rotate(-65)">
+      <path d="M0,0 C-18,-6 -24,-28 -12,-42 C-4,-50 6,-50 14,-42 C26,-28 18,-6 0,0 Z" fill="url(#caperLeaf)"/>
+      <path d="M0,-2 L0,-43 M0,-14 L-10,-24 M0,-22 L10,-32 M0,-28 L-8,-37" stroke="#b9d8c2" stroke-width=".9" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="translate(86,130) rotate(36)">
+      <path d="M0,0 C-17,-6 -22,-26 -11,-39 C-4,-46 5,-46 12,-39 C23,-26 17,-6 0,0 Z" fill="url(#caperLeaf)"/>
+      <path d="M0,-2 L0,-39 M0,-12 L-9,-21 M0,-20 L9,-29" stroke="#b9d8c2" stroke-width=".9" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="translate(148,79) rotate(48)">
+      <path d="M0,0 C-14,-5 -18,-22 -9,-33 C-3,-39 4,-39 10,-33 C19,-22 14,-5 0,0 Z" fill="#4f8b63"/>
+      <path d="M0,-2 L0,-33 M0,-12 L-7,-19 M0,-18 L8,-25" stroke="#d5e8da" stroke-width=".85" stroke-linecap="round" fill="none"/>
+    </g>
+  </g>
+
+  <!-- Botón floral cerrado (la alcaparra) arriba a la derecha -->
+  <g transform="translate(184,35) rotate(28)" stroke="#2a1d22" stroke-width="1.15">
+    <path d="M0,6 C-9,2 -11,-10 -6,-18 C-2,-23 2,-23 6,-18 C11,-10 9,2 0,6 Z" fill="#2c6e4f"/>
+    <path d="M-6,2 C-2,-5 0,-14 0,-21" fill="none" stroke="#85b896" stroke-width=".9"/>
+    <path d="M5,2 C2,-5 0,-14 0,-21" fill="none" stroke="#1c4732" stroke-width=".9"/>
+  </g>
+
+  <!-- Flor abierta de alcaparra con 4 pétalos blancos y haz de estambres largos violáceo-manganeso -->
+  <g transform="translate(88,48)">
+    <g stroke="#2a1d22" stroke-width="1.1" fill="url(#petal)">
+      <path d="M0,0 C-18,-4 -30,-18 -24,-30 C-18,-40 -2,-34 2,-18 Z"/>
+      <path d="M0,0 C4,-18 18,-32 30,-24 C40,-16 32,0 14,4 Z"/>
+      <path d="M0,0 C-16,6 -28,22 -18,32 C-8,40 6,28 4,10 Z"/>
+      <path d="M0,0 C16,2 28,16 20,28 C12,38 -2,28 -2,10 Z"/>
+    </g>
+    <!-- Estambres largos y ginóforo -->
+    <g fill="none" stroke="#6d3752" stroke-width=".95" stroke-linecap="round">
+      <path d="M0,0 C-14,-14 -26,-22 -38,-20"/>
+      <path d="M0,0 C-10,-18 -18,-30 -26,-36"/>
+      <path d="M0,0 C-2,-20 -4,-34 -2,-42"/>
+      <path d="M0,0 C8,-18 16,-32 26,-38"/>
+      <path d="M0,0 C14,-10 28,-16 40,-14"/>
+      <path d="M0,0 C-16,-4 -30,-4 -40,2"/>
+      <path d="M0,0 C-12,8 -22,18 -30,26"/>
+      <path d="M0,0 C12,8 24,14 34,16"/>
+    </g>
+    <!-- Anteras doradas/manganeso en el extremo de los estambres -->
+    <g fill="#a8741f" stroke="#2a1d22" stroke-width=".6">
+      <ellipse cx="-38" cy="-20" rx="2" ry="1.1" transform="rotate(-15 -38 -20)"/>
+      <ellipse cx="-26" cy="-36" rx="2" ry="1.1" transform="rotate(-40 -26 -36)"/>
+      <ellipse cx="-2" cy="-42" rx="2" ry="1.1" transform="rotate(-80 -2 -42)"/>
+      <ellipse cx="26" cy="-38" rx="2" ry="1.1" transform="rotate(45 26 -38)"/>
+      <ellipse cx="40" cy="-14" rx="2" ry="1.1" transform="rotate(15 40 -14)"/>
+      <ellipse cx="-40" cy="2" rx="2" ry="1.1"/>
+      <ellipse cx="-30" cy="26" rx="2" ry="1.1" transform="rotate(-35 -30 26)"/>
+      <ellipse cx="34" cy="16" rx="2" ry="1.1" transform="rotate(25 34 16)"/>
+    </g>
+    <!-- Ginóforo sobresaliente -->
+    <path d="M0,0 C-6,-16 -12,-28 -16,-38" fill="none" stroke="#2c6e4f" stroke-width="1.6"/>
+    <ellipse cx="-17" cy="-40" rx="3.2" ry="2" transform="rotate(-65 -17 -40)" fill="#2c6e4f" stroke="#2a1d22" stroke-width=".9"/>
+    <circle cx="0" cy="0" r="3.5" fill="#3f7d4f" stroke="#2a1d22" stroke-width=".9"/>
+  </g>
+
+  <!-- Alcaparrón (baya oblonga sobre ginóforo) y corte longitudinal en el ángulo inferior derecho -->
+  <g transform="translate(148,186) rotate(-18)" stroke="#2a1d22" stroke-width="1.2">
+    <!-- Fruto entero detrás -->
+    <path d="M-22,-10 C-22,-24 -8,-32 10,-32 C24,-32 34,-22 36,-10 C34,2 24,12 10,12 C-8,12 -22,4 -22,-10 Z" fill="#3f7d4f" transform="translate(-14,-12) scale(.82)"/>
+    <!-- Alcaparrón en sección longitudinal mostrando pulpa rosada-crema y semillas -->
+    <path d="M-24,0 C-24,-15 -9,-23 10,-23 C26,-23 36,-13 38,0 C36,13 26,23 10,23 C-9,23 -24,15 -24,0 Z" fill="#2c6e4f"/>
+    <path d="M-19,0 C-19,-11 -6,-18 10,-18 C22,-18 30,-10 32,0 C30,10 22,18 10,18 C-6,18 -19,11 -19,0 Z" fill="#f1e4d8"/>
+    <g fill="#2a1d22">
+      <circle cx="-8" cy="-5" r="2"/><circle cx="0" cy="-7" r="2.1"/><circle cx="9" cy="-6" r="2"/>
+      <circle cx="18" cy="-4" r="1.9"/><circle cx="-6" cy="5" r="2"/><circle cx="3" cy="7" r="2.1"/>
+      <circle cx="12" cy="6" r="2"/><circle cx="20" cy="4" r="1.8"/><circle cx="5" cy="0" r="1.8"/>
+    </g>
+  </g>
+</svg>

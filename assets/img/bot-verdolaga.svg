@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Lámina botánica de la verdolaga (Portulaca oleracea): tallos carnosos rojizos, hojas obovadas opuestas, flor amarilla de cinco pétalos y cápsula (pixidio) con semillas">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Verdolaga (Portulaca oleracea) · Lámina botánica</dc:title>
+        <dc:creator><rdf:Seq><rdf:li>Restaurante Noor</rdf:li></rdf:Seq></dc:creator>
+        <dc:rights>Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi</dc:rights>
+        <dc:description>Verdolaga (Portulaca oleracea, al-baqla al-ḥamqāʾ). Lámina botánica en la tradición de los herbarios andalusíes · Recreación visual de la propuesta (imagen de síntesis)</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#f8f8f2"/>
+      <stop offset="100%" stop-color="#e5eadf"/>
+    </radialGradient>
+    <linearGradient id="stem" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c362a"/>
+      <stop offset="60%" stop-color="#9e4d3a"/>
+      <stop offset="100%" stop-color="#758a56"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4e8c64"/>
+      <stop offset="65%" stop-color="#2c6e4f"/>
+      <stop offset="100%" stop-color="#1f5039"/>
+    </linearGradient>
+    <linearGradient id="leafLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7ab088"/>
+      <stop offset="100%" stop-color="#3f7d4f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo de pergamino / blanco de estaño y marco de herbario -->
+  <rect width="240" height="240" fill="url(#bg)"/>
+  <rect x="10" y="10" width="220" height="220" rx="6" fill="none" stroke="#2a1d22" stroke-opacity=".22" stroke-width="1"/>
+  <rect x="14" y="14" width="212" height="212" rx="4" fill="none" stroke="#2c6e4f" stroke-opacity=".18" stroke-width=".7"/>
+  <g fill="#2c6e4f" fill-opacity=".45">
+    <circle cx="18" cy="18" r="1.6"/><circle cx="222" cy="18" r="1.6"/>
+    <circle cx="18" cy="222" r="1.6"/><circle cx="222" cy="222" r="1.6"/>
+  </g>
+
+  <!-- Raíz fibrosa inferior -->
+  <g stroke="#5d4c52" stroke-linecap="round" fill="none" opacity=".75">
+    <path d="M108,196 C107,206 103,214 96,220" stroke-width="1.8"/>
+    <path d="M108,198 C111,208 117,215 124,220" stroke-width="1.4"/>
+    <path d="M106,204 C99,207 92,210 86,214" stroke-width="1"/>
+    <path d="M111,205 C118,208 124,210 130,213" stroke-width=".9"/>
+    <path d="M108,202 C108,210 107,217 107,222" stroke-width="1.1"/>
+  </g>
+
+  <!-- Tallos carnosos decumbentes rojizo-cobrizos característicos de Portulaca oleracea -->
+  <g fill="none" stroke="url(#stem)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108,197 C108,168 112,135 122,98 C128,75 138,56 146,42" stroke-width="5.2"/>
+    <path d="M111,162 C94,148 76,130 60,104 C52,91 47,78 44,66" stroke-width="4.2"/>
+    <path d="M117,128 C138,118 158,104 176,84 C184,75 190,66 194,58" stroke-width="3.8"/>
+    <path d="M82,134 C72,144 58,152 43,156" stroke-width="3"/>
+  </g>
+  <!-- Contorno de manganeso sobre los tallos -->
+  <g fill="none" stroke="#2a1d22" stroke-width="1.1" stroke-linecap="round" opacity=".8">
+    <path d="M108,197 C108,168 112,135 122,98 C128,75 138,56 146,42"/>
+    <path d="M111,162 C94,148 76,130 60,104 C52,91 47,78 44,66"/>
+    <path d="M117,128 C138,118 158,104 176,84 C184,75 190,66 194,58"/>
+  </g>
+
+  <!-- Hojas obovadas-espatuladas carnosas (opuestas y en rosetas terminales) -->
+  <g stroke="#2a1d22" stroke-width="1.2" stroke-linejoin="round">
+    <!-- Par basal -->
+    <g transform="translate(109,165) rotate(-52)">
+      <path d="M0,0 C-9,-8 -14,-24 -8,-34 C-4,-40 4,-40 8,-34 C14,-24 9,-8 0,0 Z" fill="url(#leaf)"/>
+      <path d="M0,-2 L0,-31" stroke="#b9d8c2" stroke-width=".9" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(111,163) rotate(58)">
+      <path d="M0,0 C-8,-8 -13,-22 -7,-32 C-3,-37 3,-37 7,-32 C13,-22 8,-8 0,0 Z" fill="url(#leafLight)"/>
+      <path d="M0,-2 L0,-28" stroke="#e4efe7" stroke-width=".9" stroke-linecap="round"/>
+    </g>
+
+    <!-- Rama izquierda media -->
+    <g transform="translate(76,128) rotate(-78)">
+      <path d="M0,0 C-8,-7 -13,-21 -7,-30 C-3,-35 3,-35 7,-30 C13,-21 8,-7 0,0 Z" fill="url(#leaf)"/>
+      <path d="M0,-2 L0,-26" stroke="#b9d8c2" stroke-width=".85" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(78,126) rotate(22)">
+      <path d="M0,0 C-7,-7 -12,-19 -6,-28 C-3,-32 3,-32 6,-28 C12,-19 7,-7 0,0 Z" fill="url(#leafLight)"/>
+      <path d="M0,-2 L0,-24" stroke="#e4efe7" stroke-width=".85" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(46,155) rotate(-112)">
+      <path d="M0,0 C-6,-6 -10,-16 -5,-23 C-2,-27 2,-27 5,-23 C10,-16 6,-6 0,0 Z" fill="url(#leaf)"/>
+    </g>
+
+    <!-- Roseta terminal izquierda (con flor) -->
+    <g transform="translate(46,70) rotate(-65)">
+      <path d="M0,0 C-7,-7 -12,-19 -6,-27 C-3,-31 3,-31 6,-27 C12,-19 7,-7 0,0 Z" fill="url(#leaf)"/>
+      <path d="M0,-2 L0,-23" stroke="#b9d8c2" stroke-width=".8"/>
+    </g>
+    <g transform="translate(46,70) rotate(-8)">
+      <path d="M0,0 C-7,-7 -11,-18 -6,-26 C-2,-30 2,-30 6,-26 C11,-18 7,-7 0,0 Z" fill="url(#leafLight)"/>
+      <path d="M0,-2 L0,-22" stroke="#e4efe7" stroke-width=".8"/>
+    </g>
+    <g transform="translate(46,70) rotate(52)">
+      <path d="M0,0 C-6,-6 -10,-16 -5,-23 C-2,-27 2,-27 5,-23 C10,-16 6,-6 0,0 Z" fill="url(#leaf)"/>
+    </g>
+
+    <!-- Tallo central medio -->
+    <g transform="translate(118,130) rotate(-38)">
+      <path d="M0,0 C-9,-9 -15,-25 -8,-36 C-4,-42 4,-42 8,-36 C15,-25 9,-9 0,0 Z" fill="url(#leafLight)"/>
+      <path d="M0,-2 L0,-33" stroke="#e4efe7" stroke-width=".95" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(120,128) rotate(46)">
+      <path d="M0,0 C-9,-9 -14,-24 -8,-34 C-4,-40 4,-40 8,-34 C14,-24 9,-9 0,0 Z" fill="url(#leaf)"/>
+      <path d="M0,-2 L0,-31" stroke="#b9d8c2" stroke-width=".95" stroke-linecap="round"/>
+    </g>
+
+    <!-- Tallo central superior y roseta apical -->
+    <g transform="translate(132,78) rotate(-48)">
+      <path d="M0,0 C-8,-8 -13,-22 -7,-31 C-3,-36 3,-36 7,-31 C13,-22 8,-8 0,0 Z" fill="url(#leaf)"/>
+      <path d="M0,-2 L0,-27" stroke="#b9d8c2" stroke-width=".85"/>
+    </g>
+    <g transform="translate(134,78) rotate(44)">
+      <path d="M0,0 C-8,-8 -13,-21 -7,-30 C-3,-35 3,-35 7,-30 C13,-21 8,-8 0,0 Z" fill="url(#leafLight)"/>
+      <path d="M0,-2 L0,-26" stroke="#e4efe7" stroke-width=".85"/>
+    </g>
+    <g transform="translate(145,45) rotate(-35)">
+      <path d="M0,0 C-7,-6 -11,-17 -6,-24 C-2,-28 2,-28 6,-24 C11,-17 7,-6 0,0 Z" fill="url(#leafLight)"/>
+    </g>
+    <g transform="translate(145,45) rotate(28)">
+      <path d="M0,0 C-7,-6 -11,-17 -6,-24 C-2,-28 2,-28 6,-24 C11,-17 7,-6 0,0 Z" fill="url(#leaf)"/>
+    </g>
+    <g transform="translate(145,45) rotate(88)">
+      <path d="M0,0 C-6,-5 -9,-14 -5,-20 C-2,-24 2,-24 5,-20 C9,-14 6,-5 0,0 Z" fill="url(#leafLight)"/>
+    </g>
+
+    <!-- Rama derecha -->
+    <g transform="translate(160,100) rotate(-18)">
+      <path d="M0,0 C-8,-7 -12,-20 -6,-29 C-3,-33 3,-33 6,-29 C12,-20 8,-7 0,0 Z" fill="url(#leaf)"/>
+      <path d="M0,-2 L0,-25" stroke="#b9d8c2" stroke-width=".85"/>
+    </g>
+    <g transform="translate(162,102) rotate(68)">
+      <path d="M0,0 C-8,-7 -12,-20 -6,-29 C-3,-33 3,-33 6,-29 C12,-20 8,-7 0,0 Z" fill="url(#leafLight)"/>
+      <path d="M0,-2 L0,-25" stroke="#e4efe7" stroke-width=".85"/>
+    </g>
+    <g transform="translate(192,60) rotate(-12)">
+      <path d="M0,0 C-6,-6 -10,-16 -5,-23 C-2,-27 2,-27 5,-23 C10,-16 6,-6 0,0 Z" fill="url(#leafLight)"/>
+    </g>
+    <g transform="translate(192,60) rotate(56)">
+      <path d="M0,0 C-6,-6 -10,-16 -5,-23 C-2,-27 2,-27 5,-23 C10,-16 6,-6 0,0 Z" fill="url(#leaf)"/>
+    </g>
+  </g>
+
+  <!-- Flores amarillas sésiles de 5 pétalos escotados en las axilas -->
+  <g transform="translate(145,44)" stroke="#2a1d22" stroke-width=".9">
+    <g fill="#dfb444">
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(72)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(144)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(216)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.6" fill="#a8741f"/>
+  </g>
+
+  <g transform="translate(46,69) scale(.85)" stroke="#2a1d22" stroke-width=".9">
+    <g fill="#dfb444">
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(72)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(144)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(216)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.5" fill="#a8741f"/>
+  </g>
+
+  <g transform="translate(192,60) scale(.78)" stroke="#2a1d22" stroke-width=".9">
+    <g fill="#dfb444">
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(72)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(144)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(216)"/>
+      <path d="M0,0 C-4,-6 -5,-12 -2,-14 C0,-12 0,-11 2,-14 C5,-12 4,-6 0,0 Z" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.5" fill="#a8741f"/>
+  </g>
+
+  <!-- Detalle botánico en recuadro inferior derecho: cápsula circuncisa (pixidio) abierta con semillas negras reniformes -->
+  <g transform="translate(178,180)">
+    <circle cx="0" cy="0" r="30" fill="#f1f4ee" fill-opacity=".85" stroke="#2a1d22" stroke-opacity=".3" stroke-width=".9" stroke-dasharray="3 2"/>
+    <!-- Base del pixidio -->
+    <path d="M-11,6 C-11,16 11,16 11,6 L9,-1 L-9,-1 Z" fill="#8fa878" stroke="#2a1d22" stroke-width="1.1"/>
+    <!-- Opérculo levantado -->
+    <path d="M-10,-8 C-9,-19 0,-23 0,-25 C0,-23 9,-19 10,-8 Z" fill="#a7bd8e" stroke="#2a1d22" stroke-width="1.1" transform="translate(2,-3) rotate(14)"/>
+    <!-- Semillas negras diminutas -->
+    <g fill="#2a1d22">
+      <circle cx="-4" cy="1" r="1.7"/><circle cx="0" cy="-1" r="1.8"/><circle cx="4" cy="1" r="1.7"/>
+      <circle cx="-2" cy="4" r="1.6"/><circle cx="2" cy="4" r="1.6"/><circle cx="6" cy="-3" r="1.5"/>
+    </g>
+  </g>
+</svg>

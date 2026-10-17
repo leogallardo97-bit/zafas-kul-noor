@@ -2,7 +2,9 @@
 # Epigrafía andalusí, cerámica medieval y consumo alimentario en al-Andalus
 
 **Análisis de las imágenes adjuntas, mapa bibliométrico y síntesis histórico-arqueológica**
-Informe de investigación · 14 de octubre de 2026 · Redactado en español; las ecuaciones de búsqueda se mantienen en inglés/español/francés.
+Informe de investigación · 14 de octubre de 2026 (actualizado el 16 de octubre con el §2.9) · Redactado en español; las ecuaciones de búsqueda se mantienen en inglés/español/francés.
+
+*Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi*
 
 ---
 
@@ -240,6 +242,59 @@ Marcas: **[V]** verificada en OpenAlex (título, año, DOI o identificador); **[
 
 **Un diseño ORA razonable, como propuesta.** El barnizado interior de las zafas reduce la absorción de grasa, según los propios autores. Por eso convendría muestrear también base, pie y cara externa, y comparar con piezas no vidriadas del mismo contexto. Convendría leer antes Pecci *et al.* (2015), que trata de la viabilidad de ORA en cerámica vidriada. Los biomarcadores esperables dependen de los ingredientes de las recetas (grasas de ovino, aceites vegetales, miel, almendras). No hay predicción segura sobre qué sobrevive en un vidriado estannífero del siglo XI tras siglos de enterramiento y de manipulación en museo.
 
+### 2.9 Bibliometría por producto: los ingredientes de vanguardia (octubre de 2026)
+
+**Por qué hacía falta.** El corpus de los apartados anteriores está construido para epigrafía, cerámica y alimentación, y casi no recoge literatura por producto. Busqué nombres de productos en título y palabras clave de los 404 registros:
+
+- 6 tratan del azúcar.
+- 2 de los cítricos, y son el mismo estudio de letrinas.
+- 1 del azafrán, 1 de la almendra y 1 del *garum*.
+- La berenjena, la calabaza, la verdolaga, la alcaparra y el cilantro no aparecen.
+
+Para proponer un ingrediente de vanguardia por plato hacía falta una pasada específica.
+
+**Criterios.** Un candidato entra si cumple cuatro condiciones:
+
+1. **Está atestiguado en el siglo XI andalusí**, por una de dos vías:
+   - El tratado agrícola de Ibn Baṣṣāl (*Kitāb al-qaṣd wa-l-bayān*, Toledo y Sevilla). Los capítulos los tomo del sumario de filaha.org de la edición de Millás Vallicrosa y Aziman (1955) y faltan por cotejar en la edición.
+   - Los restos de letrinas de los siglos X a XII estudiados por Peralta-Gómez *et al.* (2026, *Vegetation History and Archaeobotany*, DOI 10.1007/s00334-026-01143-1). Son cinco yacimientos de Badajoz, Mértola, Córdoba (25 casas del arrabal califal, de mediados del siglo X a inicios del XI) y Almería. Su lista de taxones incluye *Citrus*, cilantro, hinojo, comino, zanahoria, alcaparra, mastuerzo, almez y morera. La tomo de la versión web del artículo y hay que contrastarla con sus tablas.
+2. **Tiene pocos trabajos con enfoque andalusí en OpenAlex**: de 0 a 5.
+3. **Muestra impulso en la ciencia de los alimentos**, medido como el crecimiento de los trabajos de 2016–2020 a 2021–2025.
+4. **Es viable en la cocina de Noor**: temporada, proveedor y normativa.
+
+**Consultas.** Búsqueda en título y resumen de OpenAlex (`title_and_abstract.search`), el 16 de octubre de 2026. Cada candidato se combina con dos bloques:
+
+- **Bloque alimentario:** `food OR culinary OR gastronomy OR edible OR "functional food" OR ingredient`.
+- **Bloque andalusí:** `"al-Andalus" OR Andalusi OR "Islamic Iberia" OR "Muslim Spain" OR "Islamic Spain" OR andalusí`.
+
+Las cadenas exactas están en `bibliometria_ingredientes_openalex.csv` y se reproducen con `scripts/bibliometria_ingredientes_openalex.py`.
+
+| Ilustración | Ingrediente (titular) | Alimentos 2016–2020 | 2021–2025 | Crecimiento | Enfoque andalusí |
+|---|---|---|---|---|---|
+| Portada · *kul baqliyya* | Verdolaga (*Portulaca oleracea*) | 187 | 403 | ×2,2 | 1 |
+| Pase I · berenjena | Alcaparra (*Capparis spinosa*) | 80 | 138 | ×1,7 | 0 |
+| Pase II · calabaza | Semilla verde de cilantro (*Coriandrum sativum*) | 193 | 329 | ×1,7 | 2 |
+| Pase III · almendra | Alloza, almendra verde | 17 | 39 | ×2,3 | 5 |
+| Pase IV · azafrán | Tépalo de la flor del azafrán (*Crocus sativus*) | 130 | 291 | ×2,2 | 4 |
+
+Datos de las cinco alternativas (consulta completada el 17 de octubre de 2026): mastuerzo (*Lepidium sativum*), 132 → 202 (×1,5) y 0 trabajos con enfoque andalusí; almorí (*murrī* de cebada), 4 → 6 (×1,5) y 1 trabajo andalusí; polen o planta de hinojo silvestre (*Foeniculum vulgare*), 148 → 285 (×1,9) y 2 trabajos andalusíes; mora negra (*Morus nigra*), 62 → 129 (×2,1; en la consulta andalusí el término «moral» introduce 112 falsos positivos por homografía); y almecina, fruto del almez (*Celtis australis*), 16 → 9 (×0,6) y 1 trabajo andalusí. En el piloto, la calabaza vinatera (*Lagenaria siceraria*) dio 82 → 214 (×2,6) y 0 trabajos andalusíes, pero no es candidata porque ya es la protagonista del pase II.
+
+**Hallazgos.**
+
+1. **Hay un hueco de rescate.** Los cinco titulares suman cientos de trabajos en ciencia de los alimentos y entre 0 y 5 con enfoque andalusí. Su historia en al-Andalus está casi sin escribir, mientras su interés alimentario crece.
+2. **Texto frente a resto material.** La berenjena y la almendra están en los textos (Calendario de Córdoba, 961; Ibn Baṣṣāl) pero no aparecen en las letrinas, por sesgos de conservación según sus autores. La alcaparra, el cilantro y los cítricos sí tienen resto material. Conviene presentar cada ingrediente con el tipo de prueba que lo respalda.
+3. **La almecina es el caso de rescate puro.** Está en las letrinas, su nombre viene del árabe (*al-mays*, almez) y su literatura reciente decrece (16 → 9).
+4. **Una cautela normativa.** No he encontrado una decisión publicada sobre el tépalo de azafrán como nuevo alimento (Reglamento (UE) 2015/2283). Antes de servirlo hay que consultar a AESAN.
+
+**Límites.**
+
+- Es búsqueda léxica, con ruido, en una base que cubre mal las revistas españolas de ámbito regional. Las cifras son órdenes de magnitud.
+- El contraste en Scopus está preparado (`scripts/bibliometria_ingredientes_scopus.py`, con las mismas ecuaciones) pero no se ha ejecutado: necesita la clave institucional de Elsevier.
+- Antes de imprimir, hay que verificar:
+  - las atribuciones por capítulo de Ibn Baṣṣāl, en la edición de 1955;
+  - los taxones por yacimiento, en Peralta-Gómez *et al.*;
+  - los nombres árabes, en *Flora agrícola y forestal de al-Andalus* (García Sánchez, Carabaza y Hernández Bermejo). García Sánchez es la autora más productiva del clúster C4 (§2.6).
+
 ---
 
 ## 3. Fase 3 · Síntesis histórico-arqueológica
@@ -297,3 +352,4 @@ La asociación entre cada inscripción y el guiso que contuvo es **una hipótesi
 
 - Libro de cálculo con el corpus cribado (404 registros), el resumen por clúster, la matriz de coocurrencia y las cadenas ejecutadas: [bibliometric_corpus_openalex.xlsx]({{artifact:8bdb1653-fda7-4d87-b78b-feaed87fe7d6}})
 - Corpus cribado en CSV (UTF-8 con BOM): [bibliometric_corpus_openalex.csv]({{artifact:6ba52d3b-cac0-4c94-9947-4c4e6e8f9e73}})
+- Bibliometría de los ingredientes de vanguardia (§2.9): `bibliometria_ingredientes_openalex.csv`, con los scripts para repetirla en OpenAlex y en Scopus en `scripts/`.

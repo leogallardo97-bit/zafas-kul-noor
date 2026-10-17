@@ -1,10 +1,11 @@
 # Propuesta «Kul» para Noor: enlaces
 
-- **Copia local interactiva:** `Kul_Noor_presentacion.html` (se abre en cualquier navegador; necesita conexión para cargar las tipografías).
-- **Versión para enviar o imprimir:** `Kul_Noor_presentacion.pdf` (15 láminas en formato 16:9, con las inscripciones ya visibles).
-- **Presentación publicada (enlace privado):** https://claude.ai/artifact/TwJEDApmRNEKK5nukoqA1f
-  Esta versión no lleva línea de autoría; la autoría consta en la copia local y en el PDF. Es privada: solo la puede abrir quien tenga acceso concedido desde el menú «Compartir» de la página.
-- **Versión en Canva:** pendiente, a la espera de que vuelva a estar disponible el conector de Canva.
+- **Web publicada:** https://leogallardo97-bit.github.io/zafas-kul-noor/ (16 láminas, con «Despensa de vanguardia», fotografías de los platos, láminas botánicas y tipografías locales).
+- **Copia local autónoma:** `Kul_Noor_presentacion.html` (16 láminas). Lleva las tipografías e imágenes incrustadas: se abre con doble clic, funciona sin conexión y se puede enviar como archivo suelto.
+- **Versión para enviar o imprimir:** `Kul_Noor_presentacion.pdf` (16 láminas, 297 × 167 mm). Muestra en cada zafa la inscripción descubierta y un medallón con el plato servido.
+- **Presentación publicada en claude.ai (enlace privado):** https://claude.ai/artifact/TwJEDApmRNEKK5nukoqA1f
+  Corresponde a la versión anterior. No lleva línea de autoría; la autoría consta en la copia local, en la web y en el PDF. Es privada: solo la puede abrir quien tenga acceso concedido desde el menú «Compartir» de la página.
+- **Versión en Canva:** el conector de Canva vuelve a estar disponible; falta decidir si se prepara.
 
 ---
 

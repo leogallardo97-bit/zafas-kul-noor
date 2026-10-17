@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Lámina botánica del azafrán (Crocus sativus): cormo con túnica fibrosa, hojas lineares estrechas, seis tépalos violáceos con venación púrpura, tres estambres amarillos y tres estigmas rojos">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Tépalo de la flor del azafrán (Crocus sativus) · Lámina botánica</dc:title>
+        <dc:creator><rdf:Seq><rdf:li>Restaurante Noor</rdf:li></rdf:Seq></dc:creator>
+        <dc:rights>Autoría: Restaurante Noor · Dirección y supervisión: Paco Morales y Paola Gualandi</dc:rights>
+        <dc:description>Azafrán (Crocus sativus, zaʿfarān): tépalos violáceos, estambres y hebras. Lámina botánica · Recreación visual de la propuesta (imagen de síntesis)</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#f8f8f2"/>
+      <stop offset="100%" stop-color="#e5eadf"/>
+    </radialGradient>
+    <linearGradient id="tepalOuter" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9e7bb8"/>
+      <stop offset="65%" stop-color="#6c4988"/>
+      <stop offset="100%" stop-color="#482c61"/>
+    </linearGradient>
+    <linearGradient id="tepalInner" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#bfa3d6"/>
+      <stop offset="65%" stop-color="#845fa3"/>
+      <stop offset="100%" stop-color="#563870"/>
+    </linearGradient>
+    <radialGradient id="corm" cx="45%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#c99e67"/>
+      <stop offset="100%" stop-color="#7c5632"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="240" height="240" fill="url(#bg)"/>
+  <rect x="10" y="10" width="220" height="220" rx="6" fill="none" stroke="#2a1d22" stroke-opacity=".22" stroke-width="1"/>
+  <rect x="14" y="14" width="212" height="212" rx="4" fill="none" stroke="#2c6e4f" stroke-opacity=".18" stroke-width=".7"/>
+  <g fill="#2c6e4f" fill-opacity=".45">
+    <circle cx="18" cy="18" r="1.6"/><circle cx="222" cy="18" r="1.6"/>
+    <circle cx="18" cy="222" r="1.6"/><circle cx="222" cy="222" r="1.6"/>
+  </g>
+
+  <!-- Cormo (bulbo sólido) con túnica reticulada fibrosa y raíces en la base -->
+  <g transform="translate(106,192)">
+    <g stroke="#5d4c52" stroke-width="1" fill="none" stroke-linecap="round">
+      <path d="M-12,16 C-15,22 -19,26 -24,29"/>
+      <path d="M-6,18 C-7,24 -9,28 -11,31"/>
+      <path d="M0,19 C0,25 1,29 1,32"/>
+      <path d="M7,18 C9,24 12,28 15,31"/>
+      <path d="M13,15 C17,21 21,25 26,28"/>
+    </g>
+    <path d="M-22,4 C-24,-8 -14,-18 0,-20 C14,-18 24,-8 22,4 C20,15 11,20 0,20 C-11,20 -20,15 -22,4 Z" fill="url(#corm)" stroke="#2a1d22" stroke-width="1.2"/>
+    <!-- Fibras reticuladas de la túnica -->
+    <path d="M-14,15 C-12,2 -6,-10 0,-18 M-6,18 C-4,4 0,-8 4,-17 M6,18 C6,4 4,-8 0,-18 M14,14 C12,2 8,-10 3,-17 M-16,2 C-4,6 6,6 16,2" fill="none" stroke="#472f1b" stroke-width=".75" opacity=".75"/>
+  </g>
+
+  <!-- Espata membranosa blanquecina y tubo floral -->
+  <path d="M101,173 C99,146 101,122 104,100 L111,100 C109,122 108,146 110,173 Z" fill="#e6e2d3" stroke="#2a1d22" stroke-width="1"/>
+
+  <!-- Hojas lineares muy estrechas (graminiformes) con banda central pálida -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M100,172 C88,136 70,96 44,54" stroke="#2c6e4f" stroke-width="3.2"/>
+    <path d="M100,172 C88,136 70,96 44,54" stroke="#d5e8da" stroke-width=".8"/>
+    <path d="M102,172 C94,132 82,86 68,38" stroke="#1f5039" stroke-width="2.8"/>
+    <path d="M111,172 C122,136 138,98 160,58" stroke="#2c6e4f" stroke-width="3"/>
+    <path d="M111,172 C122,136 138,98 160,58" stroke="#d5e8da" stroke-width=".8"/>
+  </g>
+
+  <!-- Los 6 tépalos violáceos del perianto (el protagonista del Pase IV) -->
+  <g transform="translate(107,104)" stroke="#2a1d22" stroke-width="1.15" stroke-linejoin="round">
+    <!-- 3 tépalos externos -->
+    <g transform="rotate(-38)">
+      <path d="M0,0 C-18,-18 -24,-52 -8,-74 C-3,-80 3,-80 8,-74 C24,-52 18,-18 0,0 Z" fill="url(#tepalOuter)"/>
+      <path d="M0,-4 L0,-72 M0,-20 C-7,-34 -9,-50 -5,-66 M0,-20 C7,-34 9,-50 5,-66" fill="none" stroke="#3c2054" stroke-width=".75" opacity=".75"/>
+    </g>
+    <g transform="rotate(36)">
+      <path d="M0,0 C-18,-18 -24,-52 -8,-74 C-3,-80 3,-80 8,-74 C24,-52 18,-18 0,0 Z" fill="url(#tepalOuter)"/>
+      <path d="M0,-4 L0,-72 M0,-20 C-7,-34 -9,-50 -5,-66 M0,-20 C7,-34 9,-50 5,-66" fill="none" stroke="#3c2054" stroke-width=".75" opacity=".75"/>
+    </g>
+    <g transform="rotate(-2)">
+      <path d="M0,0 C-19,-20 -25,-56 -9,-79 C-3,-86 3,-86 9,-79 C25,-56 19,-20 0,0 Z" fill="url(#tepalOuter)"/>
+      <path d="M0,-4 L0,-76 M0,-22 C-8,-36 -10,-54 -6,-70 M0,-22 C8,-36 10,-54 6,-70" fill="none" stroke="#3c2054" stroke-width=".8" opacity=".75"/>
+    </g>
+    <!-- 3 tépalos internos -->
+    <g transform="rotate(-20)">
+      <path d="M0,0 C-16,-16 -21,-48 -7,-68 C-2,-74 2,-74 7,-68 C21,-48 16,-16 0,0 Z" fill="url(#tepalInner)"/>
+      <path d="M0,-4 L0,-66 M0,-18 C-6,-32 -8,-46 -4,-60 M0,-18 C6,-32 8,-46 4,-60" fill="none" stroke="#482c61" stroke-width=".7" opacity=".7"/>
+    </g>
+    <g transform="rotate(18)">
+      <path d="M0,0 C-16,-16 -21,-48 -7,-68 C-2,-74 2,-74 7,-68 C21,-48 16,-16 0,0 Z" fill="url(#tepalInner)"/>
+      <path d="M0,-4 L0,-66 M0,-18 C-6,-32 -8,-46 -4,-60 M0,-18 C6,-32 8,-46 4,-60" fill="none" stroke="#482c61" stroke-width=".7" opacity=".7"/>
+    </g>
+
+    <!-- 3 estambres con anteras amarillo oro -->
+    <g stroke="#2a1d22" stroke-width=".8">
+      <path d="M-2,-4 L-10,-38" stroke="#e8c86b" stroke-width="1.6"/>
+      <rect x="-13" y="-52" width="4.2" height="16" rx="2" transform="rotate(-12 -11 -44)" fill="#e5b535"/>
+      <path d="M0,-4 L0,-40" stroke="#e8c86b" stroke-width="1.6"/>
+      <rect x="-2.1" y="-55" width="4.2" height="16" rx="2" fill="#e5b535"/>
+      <path d="M2,-4 L10,-38" stroke="#e8c86b" stroke-width="1.6"/>
+      <rect x="8.8" y="-52" width="4.2" height="16" rx="2" transform="rotate(12 11 -44)" fill="#e5b535"/>
+    </g>
+
+    <!-- Estilo dividido en 3 estigmas largos rojo carmesí en forma de trompeta (las hebras del azafrán) -->
+    <g fill="none" stroke="#9b291e" stroke-linecap="round">
+      <path d="M0,-2 C-8,-28 -22,-48 -38,-58" stroke-width="2.4"/>
+      <path d="M0,-2 C-4,-34 -10,-58 -16,-74" stroke-width="2.4"/>
+      <path d="M0,-2 C10,-28 24,-46 38,-54" stroke-width="2.4"/>
+    </g>
+    <!-- Ápices acampanados denticulados de las tres hebras -->
+    <g fill="#b53324" stroke="#2a1d22" stroke-width=".7">
+      <circle cx="-39" cy="-59" r="2.6"/>
+      <circle cx="-16" cy="-75" r="2.6"/>
+      <circle cx="39" cy="-55" r="2.6"/>
+    </g>
+  </g>
+
+  <!-- Detalle botánico (abajo a la derecha): un tépalo aislado mostrando su venación púrpura tras la deshidratación en frío -->
+  <g transform="translate(184,174) rotate(22)" stroke="#2a1d22" stroke-width="1.1">
+    <path d="M0,26 C-16,10 -20,-20 -7,-38 C-2,-44 2,-44 7,-38 C20,-20 16,10 0,26 Z" fill="url(#tepalInner)"/>
+    <path d="M0,22 L0,-36 M0,8 C-6,-6 -8,-20 -4,-32 M0,8 C6,-6 8,-20 4,-32 M0,14 C-10,2 -12,-12 -9,-24 M0,14 C10,2 12,-12 9,-24" fill="none" stroke="#482c61" stroke-width=".75"/>
+  </g>
+</svg>

@@ -13,3 +13,8 @@ $RECYCLE.BIN/
 .vscode/
 .idea/
 .playwright-mcp/
+
+# Imágenes generadas sin procesar (candidatas y originales); solo se publican las de assets/img/
+assets/_raw/
+__pycache__/
+*.pyc
